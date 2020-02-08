@@ -32,3 +32,13 @@ ORDER BY-Sorts records in ascending/decending order
 2. SELECT UserID, UserName FROM Users;
 3. SELECT * FROM Users WHERE Country-'US';
 4. SELECT * FROM Users WHERE Country='US' AND UserName='Hannan';
+
+# Special Characters
+1. ' and " -String delimiters
+2. --, /* and # -comment delimiters
+3. * and % -wildcards
+4. ; -Ends SQL statement
+5. Plus a bunch of others that follow programmatic logic- =, >, <, (), etc
+
+
+
