@@ -42,16 +42,17 @@ Sql statements begin with verbs, lets take a look at a few comman verbs:
 
 # Classic Example of SQL-Injection in Burpsuite
 ![SQL-Injection Through Burpsuite](https://user-images.githubusercontent.com/52100180/74090717-6cf6fb80-4ad0-11ea-83c1-bab743242f01.png)
-# This is what happening in a background:
+# This is happening in background:
 ```
 "SELECT * FROM Users WHERE email = 'test' AND password = '098f6bcd4621d379cade4ed32627b4f6' AND deletedAt IS NULL"
 ```
 *This is a simple Sql query!*
-# This is what when we inject string in a Sql query:
+# This is after injecting string in Sql query:
 ```
 "SELECT * FROM Users WHERE email = 'test' OR 1=1; --' AND password = '098f6bcd4621d379cade4ed32627b4f6' AND deletedAt IS NULL"
 ```
 *A single quote disturb the Sql query and we able to inject our string and able to login as a ADMIN* 
-* 1=1 --> *Always true*
-* ; --> *Ending statement*
-* -- --> *Ignor all other query after this*
+* 1=1 *Always true*
+* ; *Ending statement*
+* -- *Ignor all other query after this*
+*To Be Continued...*
