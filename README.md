@@ -30,15 +30,15 @@ ORDER BY-Sorts records in ascending/decending order
 # What happens when we run the following statements?
 * SELECT * FROM Users;
 * SELECT UserID, UserName FROM Users;
-3. SELECT * FROM Users WHERE Country-'US';
-4. SELECT * FROM Users WHERE Country='US' AND UserName='Hannan'
+* SELECT * FROM Users WHERE Country-'US';
+* SELECT * FROM Users WHERE Country='US' AND UserName='Hannan'
 
 # Special Characters
-1. ' and " -String delimiters
-2. --, /* and # -comment delimiters
-3. * and % -wildcards
-4. ; -Ends SQL statement
-5. Plus a bunch of others that follow programmatic logic- =, >, <, (), etc
+* ' and " -String delimiters
+* --, /* and # -comment delimiters
+* * and % -wildcards
+* ; -Ends SQL statement
+* Plus a bunch of others that follow programmatic logic- =, >, <, (), etc
 
 # Classic Example of SQL-Injection in Burpsuite
 ![SQL-Injection Through Burpsuite](https://user-images.githubusercontent.com/52100180/74090717-6cf6fb80-4ad0-11ea-83c1-bab743242f01.png)
