@@ -40,5 +40,8 @@ ORDER BY-Sorts records in ascending/decending order
 4. ; -Ends SQL statement
 5. Plus a bunch of others that follow programmatic logic- =, >, <, (), etc
 
+# Classic SQL Error
+![Uploading Screenshot from 2020-02-08 22-28-06.png…]()
+
 
 
