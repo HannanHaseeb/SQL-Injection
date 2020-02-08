@@ -55,4 +55,5 @@ Sql statements begin with verbs, lets take a look at a few comman verbs:
 * 1=1 *Always true*
 * ; *Ending statement*
 * -- *Ignor all other query after this*
+
 *To Be Continued...*
