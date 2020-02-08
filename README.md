@@ -28,8 +28,8 @@ AND/OR/NOT-Filter records based on multiple conditions
 ORDER BY-Sorts records in ascending/decending order
 
 # What happens when we run the following statements?
-1. SELECT * FROM Users;
-2. SELECT UserID, UserName FROM Users;
+* SELECT * FROM Users;
+* SELECT UserID, UserName FROM Users;
 3. SELECT * FROM Users WHERE Country-'US';
 4. SELECT * FROM Users WHERE Country='US' AND UserName='Hannan'
 
@@ -42,3 +42,4 @@ ORDER BY-Sorts records in ascending/decending order
 
 # Classic Example of SQL-Injection in Burpsuite
 ![SQL-Injection Through Burpsuite](https://user-images.githubusercontent.com/52100180/74090717-6cf6fb80-4ad0-11ea-83c1-bab743242f01.png)
+
