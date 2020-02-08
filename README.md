@@ -42,7 +42,6 @@ Sql statements begin with verbs, lets take a look at a few comman verbs:
 
 # Classic Example of SQL-Injection in Burpsuite
 ![SQL-Injection Through Burpsuite](https://user-images.githubusercontent.com/52100180/74091536-5bb2ec80-4ada-11ea-946d-63f975a8f033.JPG)
-)
 # This is happening in background:
 ```
 "SELECT * FROM Users WHERE email = 'test' AND password = '098f6bcd4621d379cade4ed32627b4f6' AND deletedAt IS NULL"
