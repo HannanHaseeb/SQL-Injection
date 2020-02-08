@@ -16,3 +16,4 @@ UNION-Combins data from multiple queries
 WHERE-Filters records based on specific condation
 AND/OR/NOT-Filter records based on multiple conditions
 ORDER BY-Sorts records in ascending/decending order
+
