@@ -40,5 +40,4 @@ ORDER BY-Sorts records in ascending/decending order
 4. ; -Ends SQL statement
 5. Plus a bunch of others that follow programmatic logic- =, >, <, (), etc
 
-![Classic SQL Error](file:///root/Pictures/Screenshot%20from%202020-02-08%2022-28-06.png)
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
