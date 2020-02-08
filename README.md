@@ -40,4 +40,4 @@ ORDER BY-Sorts records in ascending/decending order
 4. ; -Ends SQL statement
 5. Plus a bunch of others that follow programmatic logic- =, >, <, (), etc
 
-![Image of Yaktocat](https://github.com/HannanHaseeb11/SQL-Injection/edit/file:///root/Pictures/Screenshot%20from%202020-02-08%2022-28-06.png)
+![Image of Yaktocat](https://github.com/HannanHaseeb11/SQL-Injection/file:///root/Pictures/Screenshot%20from%202020-02-08%2022-28-06.png)
