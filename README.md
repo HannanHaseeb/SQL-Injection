@@ -40,4 +40,5 @@ ORDER BY-Sorts records in ascending/decending order
 4. ; -Ends SQL statement
 5. Plus a bunch of others that follow programmatic logic- =, >, <, (), etc
 
-![Image of Yaktocat](https://github.com/HannanHaseeb11/SQL-Injection/file:///root/Pictures/Screenshot%20from%202020-02-08%2022-28-06.png)
+# Classic Example of SQL-Injection in Burpsuite
+![SQL-Injection Through Burpsuite](https://user-images.githubusercontent.com/52100180/74090717-6cf6fb80-4ad0-11ea-83c1-bab743242f01.png)
