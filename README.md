@@ -34,10 +34,11 @@ ORDER BY-Sorts records in ascending/decending order
 4. SELECT * FROM Users WHERE Country='US' AND UserName='Hannan';
 
 # Special Characters
-1. *'* and " -String delimiters
+1. ' and " -String delimiters
 2. --, /* and # -comment delimiters
 3. * and % -wildcards
 4. ; -Ends SQL statement
 5. Plus a bunch of others that follow programmatic logic- =, >, <, (), etc
 
-# Classic SQL Error
+![Classic SQL Error](file:///root/Pictures/Screenshot%20from%202020-02-08%2022-28-06.png)
+
