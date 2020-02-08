@@ -27,3 +27,8 @@ AND/OR/NOT-Filter records based on multiple conditions
 
 ORDER BY-Sorts records in ascending/decending order
 
+# What happens when we run the following statements?
+1. SELECT * FROM Users;
+2. SELECT UserID, UserName FROM Users;
+3. SELECT * FROM Users WHERE Country-'US';
+4. SELECT * FROM Users WHERE Country='US' AND UserName='Hannan';
